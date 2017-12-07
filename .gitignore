@@ -1,0 +1,15 @@
+
+# folders to ignore
+[Bb]uild/
+.vs/
+
+# visual studio files
+*.sln
+*.suo
+*.sdf
+*.lnk
+*.opendb
+*.opensdf
+*.db
+
+CMakeSettings.json
